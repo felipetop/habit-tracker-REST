@@ -10,11 +10,7 @@ dotenv.config();
 
 /* ----------------------------- MongoDB Models ----------------------------- */
 
-import './models/Achievment';
-import './models/Category';
-import './models/Habit';
-import './models/User';
-import './models/UserHabit';
+import './models/Monster';
 
 /* ------------------------------- Fastify Plugins ------------------------------ */
 
