@@ -6,4 +6,4 @@ const categorySchema = new Schema({
   avatar: String,
 });
 
-mongoose.model('Treiner', categorySchema);
+mongoose.model('Trainer', categorySchema);

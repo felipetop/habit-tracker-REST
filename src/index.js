@@ -11,6 +11,8 @@ dotenv.config();
 /* ----------------------------- MongoDB Models ----------------------------- */
 
 import './models/Monster';
+import './models/Trainer';
+import './models/MonsterTrainer';
 
 /* ------------------------------- Fastify Plugins ------------------------------ */
 
